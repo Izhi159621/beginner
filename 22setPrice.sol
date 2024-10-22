@@ -7,7 +7,7 @@ contract Property{
     address public owner;
 
     constructor(){
-        price = 10;
+        price = 12;
         owner = msg.sender;
     }
 
